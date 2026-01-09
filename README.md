@@ -1,6 +1,6 @@
 ### Hello! I'm Luan 👋
 
-- 🌱 I’m currently learning -> Next.js / Typescript
+- 🌱 I’m currently learning -> Next.js / Nest.js
 - 📫 How to reach me -> reach me at the following email: luan.gomesdv@gmail.com
 - 💼 I'm currently looking for work
 
