@@ -3,12 +3,9 @@
 - 🌱 I’m currently learning -> Next.js / Nest.js
 - 📫 How to reach me -> reach me at the following email: luan.gomesdv@gmail.com
 - 💼 I'm currently looking for work
+- 💻 My portfólio -> <a href="https://luanportfolio.netlify.app" target="_blank">Click here to go to my portfolio</a>
 
-<div>
-  <a href="https://github.com/luangomesg">
-  <img width="43%"  src="https://github-readme-stats.vercel.app/api?username=luangomesg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luangomesg&layout=compact&langs_count=7&theme=radical"/>
-</div> 
+
   <div style="display: inline_block"><br>
    <img align="center" alt="Luan-HTML" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
   <img align="center" alt="Luan-CSS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
