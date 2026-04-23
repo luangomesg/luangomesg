@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning -> Next.js / Nest.js
 - 📫 How to reach me -> reach me at the following email: luan.gomesdv@gmail.com
 - 💼 I'm currently looking for work
-- 💻 My portfólio -> <a href="https://luanportfolio.netlify.app" target="_blank">Click here to go to my portfolio</a>
+- 💻 My portfólio -> <a href="https://new-portfolio-brown-five.vercel.app" target="_blank">Click here to go to my portfolio</a>
 
 <div>
   <a href="https://github.com/luangomesg">
